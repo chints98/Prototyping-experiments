@@ -1,2 +1,3 @@
 # Prototyping-experiments
-Mostly in HTML/CSS for practice and learning :) 
+
+My experiments with Framer.js and HTML/CSS
