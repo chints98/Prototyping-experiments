@@ -1,0 +1,22 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 640,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "cachedDeviceWidth" : 384,
+  "deviceType" : "google-nexus-4",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "projectId" : "CF55D883-CBD6-4210-9DDF-AA09E97B64C7",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : false,
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : "fit"
+}
